@@ -1,0 +1,16 @@
+C:\WORK\REPO\string-manipulation-practice\string-manipulation-practice\bin\Debug\net5.0\string-manipulation-practice.exe
+C:\WORK\REPO\string-manipulation-practice\string-manipulation-practice\bin\Debug\net5.0\string-manipulation-practice.deps.json
+C:\WORK\REPO\string-manipulation-practice\string-manipulation-practice\bin\Debug\net5.0\string-manipulation-practice.runtimeconfig.json
+C:\WORK\REPO\string-manipulation-practice\string-manipulation-practice\bin\Debug\net5.0\string-manipulation-practice.runtimeconfig.dev.json
+C:\WORK\REPO\string-manipulation-practice\string-manipulation-practice\bin\Debug\net5.0\string-manipulation-practice.dll
+C:\WORK\REPO\string-manipulation-practice\string-manipulation-practice\bin\Debug\net5.0\ref\string-manipulation-practice.dll
+C:\WORK\REPO\string-manipulation-practice\string-manipulation-practice\bin\Debug\net5.0\string-manipulation-practice.pdb
+C:\WORK\REPO\string-manipulation-practice\string-manipulation-practice\obj\Debug\net5.0\string-manipulation-practice.csproj.AssemblyReference.cache
+C:\WORK\REPO\string-manipulation-practice\string-manipulation-practice\obj\Debug\net5.0\string-manipulation-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\string-manipulation-practice\string-manipulation-practice\obj\Debug\net5.0\string-manipulation-practice.AssemblyInfoInputs.cache
+C:\WORK\REPO\string-manipulation-practice\string-manipulation-practice\obj\Debug\net5.0\string-manipulation-practice.AssemblyInfo.cs
+C:\WORK\REPO\string-manipulation-practice\string-manipulation-practice\obj\Debug\net5.0\string-manipulation-practice.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\string-manipulation-practice\string-manipulation-practice\obj\Debug\net5.0\string-manipulation-practice.dll
+C:\WORK\REPO\string-manipulation-practice\string-manipulation-practice\obj\Debug\net5.0\ref\string-manipulation-practice.dll
+C:\WORK\REPO\string-manipulation-practice\string-manipulation-practice\obj\Debug\net5.0\string-manipulation-practice.pdb
+C:\WORK\REPO\string-manipulation-practice\string-manipulation-practice\obj\Debug\net5.0\string-manipulation-practice.genruntimeconfig.cache
